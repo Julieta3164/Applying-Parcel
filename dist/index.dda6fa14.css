@@ -1,0 +1,190 @@
+body {
+  text-align: justify;
+  background: #cecbcb;
+  margin: 3%;
+  font-family: Dancing Script, cursive;
+}
+
+header {
+  width: auto;
+  border: 2px solid #000;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2%;
+  display: flex;
+}
+
+header img {
+  width: 20%;
+}
+
+main {
+  width: auto;
+  border: 2px solid #000;
+  padding: 2%;
+}
+
+button {
+  width: 10%;
+  background-color: #b0b0f0;
+  border: 2px solid #00f;
+  border-radius: 20px;
+}
+
+input {
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+::placeholder {
+  text-align: center;
+  font-family: Dancing Script, cursive;
+  font-size: 15px;
+}
+
+.micro1 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro1 #text1 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro2 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro2 #comparacion2 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro3 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro3 #text {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro4 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro4 #lyrics {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro5 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro5 #text5 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro6 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro6 #text6 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro7 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro7 #text7 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro8 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro8 #text8 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro9 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro9 #text9 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro10 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro10 #text10 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro11 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro11 #text11 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+.micro12 {
+  text-align: center;
+  margin: 2%;
+}
+
+.micro12 #text12 {
+  border: 1px solid #000;
+  margin: 1%;
+  padding: 1%;
+}
+
+footer {
+  width: auto;
+  border: 2px solid #000;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+  display: flex;
+}
+
+footer img {
+  width: 10%;
+}
+
+/*# sourceMappingURL=index.dda6fa14.css.map */
